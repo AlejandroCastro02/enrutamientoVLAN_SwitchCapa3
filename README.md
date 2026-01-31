@@ -31,7 +31,7 @@ git clone https://github.com/AlejandroCastro02/enrutamientoVLAN_SwitchCapa3.git
 
 1. Abre el programa Cisco Packet Tracer y selecciona el archivo **enrutamientoVLAN_SwitchCapa3.pkt**
 
-![Captura_simulacion_CiscoPacketTracer]()
+![Captura_simulacion_CiscoPacketTracer](enrutamientoVLAN_SwitchCapa3.PNG)
 
 ---
 
